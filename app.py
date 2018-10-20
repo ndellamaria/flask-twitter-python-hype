@@ -1,7 +1,7 @@
 import os
 import time
 import flask
-import tweepy
+# import tweepy
 from twitter import *
 from flask import Flask, request, render_template
 import base64
